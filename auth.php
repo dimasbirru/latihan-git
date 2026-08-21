@@ -1,5 +1,4 @@
-<?php // Title disunting oleh Developer 1 dan sudah ditambahkan oleh Developer 2 dan dirubah nya
-
+<?php // Versi Lokal Dev 2.
 function login($username, $password) {
     if ($username === 'amin' && $password === '3232') {
         return "Login berhasil! Selamat datang, " . $username;
