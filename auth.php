@@ -1,4 +1,4 @@
-<?php // Title disunting oleh Developer 1
+<?php // <?php // Versi Web GitHub
 
 function login($username, $password) {
     if ($username === 'amin' && $password === '3232') {
