@@ -1,4 +1,4 @@
-<?php // Title disunting oleh Developer 1 dan sudah ditambahkan oleh Developer 2
+<?php // Title disunting oleh Developer 1 dan sudah ditambahkan oleh Developer 2 dan dirubah nya
 
 function login($username, $password) {
     if ($username === 'amin' && $password === '3232') {
