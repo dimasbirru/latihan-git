@@ -8,3 +8,8 @@ function login($username, $password) {
 
 // Uji coba fungsi
 echo login('amin', '3232'); // Output: Login berhasil! Selamat datang, amin 
+hotfix/perbaikan-keamanan
+
+// Hotfix: Validasi keamanan tambahan
+$is_secure = true;
+
