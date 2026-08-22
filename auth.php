@@ -1,5 +1,4 @@
-<?php // Title disunting oleh Developer 1
-
+<?php // Versi Lokal Dev 2.
 function login($username, $password) {
     if ($username === 'amin' && $password === '3232') {
         return "Login berhasil! Selamat datang, " . $username;
@@ -9,6 +8,8 @@ function login($username, $password) {
 
 // Uji coba fungsi
 echo login('amin', '3232'); // Output: Login berhasil! Selamat datang, amin 
+hotfix/perbaikan-keamanan
 
 // Hotfix: Validasi keamanan tambahan
 $is_secure = true;
+
